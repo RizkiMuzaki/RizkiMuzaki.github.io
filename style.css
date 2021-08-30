@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: gainsboro;
+}
+#projects {
+  background-color: gainsboro;
+}
+#about {
+  background-color: #0b8146;
+}
+section {
+  padding-top: 5rem;
+}
